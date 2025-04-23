@@ -29,6 +29,7 @@ import { StatusBadge } from '@/components/ui/StatusBadge';
 import { Button } from '@/components/ui/Button';
 import { Avatar } from '@/components/ui/Avatar';
 import { Card } from '@/components/ui/Card';
+import { Input } from '@/components/ui/Input';
 import { useCorruptionStore } from '@/store/corruption-store';
 import { useAuthStore } from '@/store/auth-store';
 import { colors } from '@/constants/colors';
