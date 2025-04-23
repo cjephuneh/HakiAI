@@ -24,7 +24,7 @@ import {
 } from 'lucide-react-native';
 import { Card } from '@/components/ui/Card';
 import { Button } from '@/components/ui/Button';
-import { colors } from '@/constants/Colors';
+import { colors } from '@/constants/colors';
 
 // Mock data for legal aid providers
 const legalAidProvidersData = [

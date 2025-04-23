@@ -17,7 +17,11 @@ import {
   Smartphone, 
   Trash2,
   ChevronRight,
-  LogOut
+  LogOut,
+  Mail,
+  Info,
+  Shield,
+  FileText
 } from 'lucide-react-native';
 import { Card } from '@/components/ui/Card';
 import { useAuthStore } from '@/store/auth-store';

@@ -5,7 +5,8 @@ import {
   FlatList, 
   ActivityIndicator,
   TouchableOpacity,
-  Text
+  Text,
+  ScrollView
 } from 'react-native';
 import { useRouter } from 'expo-router';
 import { 
