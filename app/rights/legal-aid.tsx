@@ -24,7 +24,7 @@ import {
 } from 'lucide-react-native';
 import { Card } from '@/components/ui/Card';
 import { Button } from '@/components/ui/Button';
-import { colors } from '@/constants/colors';
+import { colors } from '@/constants/Colors';
 
 // Mock data for legal aid providers
 const legalAidProvidersData = [
@@ -68,7 +68,7 @@ const legalAidProvidersData = [
     phone: '+254 57 2023985',
     email: 'info@fidakenya.org',
     hours: 'Mon-Fri: 8:30 AM - 5:30 PM',
-    description: 'FIDA Kenya is a non-profit, non-partisan membership organization committed to the creation of a society that is free from all forms of discrimination against women through legal aid, women's rights monitoring, and advocacy.',
+    description: 'FIDA Kenya is a non-profit, non-partisan membership organization committed to the creation of a society that is free from all forms of discrimination against women through legal aid, womens rights monitoring, and advocacy.',
   },
   {
     id: '4',
